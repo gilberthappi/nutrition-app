@@ -4,7 +4,7 @@ export default function Register(){
 
     return(
         <>
-        <section className="form-parent">
+        <section className="container">
           <form className="form">
 
             <h1> Start Your Fitness</h1>
