@@ -5,7 +5,7 @@ export default function Login(){
 
     return(
         <>
-        <section className="form-parent">
+        <section className="container">
           <form className="form">
 
             <h1> Login To Fitness</h1>
