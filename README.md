@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name :  ONLINE MOVIE
+# Project Name :  NUTRTION APP
 
 > In this project we are making a Cinema TV webapp using an external API's
 >
